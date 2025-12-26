@@ -114,9 +114,13 @@ Air-Quality/
 Here are some ideas you might implement next:
 
 ✅ Integrate actual AQI data from public APIs
+
 ✅ Add support for other cities
+
 ✅ Plot additional pollutants (PM2.5, NO₂, O₃, etc.)
+
 ✅ Create web dashboard for interactive browsing
+
 
 
 
