@@ -1,7 +1,6 @@
 # Delhi Air Quality Index Animator
 
-![AQI Animation Demo](path/to/a/sample/delhi_aqi_animation_thumbnail.gif)
-_Consider adding a small, optimized GIF thumbnail here once generated for quick preview._
+
 
 ## Table of Contents
 - [About The Project](#about-the-project)
@@ -30,8 +29,10 @@ The primary goal is to offer an intuitive visual tool for understanding spatio-t
 * **Animated Output:** Compiles individual map frames into a single GIF animation for a dynamic visualization of air quality changes over a month.
 * **AQI Color Categorization:** Utilizes standard AQI color codes (Good, Satisfactory, Moderate, Poor, Very Poor, Severe) for easy interpretation.
 
-### AQI Overview
+## 🌫️ Delhi AQI Visualization
+
 ![delhi_aqi_animation](https://github.com/Quantamaster/Air-Quality/blob/main/delhi_aqi_animation.gif)
+
 
 ## Getting Started
 
@@ -101,3 +102,4 @@ Once installed, you can run the script to generate the AQI animation.
 
 
 ## Project Structure
+
