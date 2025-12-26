@@ -12,10 +12,7 @@
 - [Project Structure](#project-structure)
 - [Data Source](#data-source)
 - [Future Improvements](#future-improvements)
-- [License](#license)
-- [Contact](#contact)
-- [Acknowledgements](#acknowledgements)
-
+-
 ## About The Project
 
 This project provides a Python-based solution to visualize urban air quality index (AQI) data over time as an animated GIF. Focusing specifically on Delhi, India, it fetches simulated (or real, if integrated) air quality data across various monitoring stations for a specified month and generates a time-lapse animation depicting the changing pollution levels geographically.
@@ -100,6 +97,22 @@ Once installed, you can run the script to generate the AQI animation.
 
     Navigate to your project root folder (`C:\Users\abc\PycharmProjects\Air_Quality _Index\`) to view the `delhi_aqi_animation.gif`.
 
-
 ## Project Structure
+
+Air-Quality/
+├── delhi_aqi_animation.gif   # Resulting animation
+├── p1.py                     # Main script generating frames & GIF
+├── aqi_frames/               # (Optional) generated image frames
+└── README.md                 # This project description
+
+
+## Future Improvements
+
+Here are some ideas you might implement next:
+
+✅ Integrate actual AQI data from public APIs
+✅ Add support for other cities
+✅ Plot additional pollutants (PM2.5, NO₂, O₃, etc.)
+✅ Create web dashboard for interactive browsing
+
 
