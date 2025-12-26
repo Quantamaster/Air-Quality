@@ -101,8 +101,11 @@ Once installed, you can run the script to generate the AQI animation.
 
 Air-Quality/
 ├── delhi_aqi_animation.gif   # Resulting animation
+
 ├── p1.py                     # Main script generating frames & GIF
+
 ├── aqi_frames/               # (Optional) generated image frames
+
 └── README.md                 # This project description
 
 
@@ -114,5 +117,6 @@ Here are some ideas you might implement next:
 ✅ Add support for other cities
 ✅ Plot additional pollutants (PM2.5, NO₂, O₃, etc.)
 ✅ Create web dashboard for interactive browsing
+
 
 
