@@ -30,6 +30,9 @@ The primary goal is to offer an intuitive visual tool for understanding spatio-t
 * **Animated Output:** Compiles individual map frames into a single GIF animation for a dynamic visualization of air quality changes over a month.
 * **AQI Color Categorization:** Utilizes standard AQI color codes (Good, Satisfactory, Moderate, Poor, Very Poor, Severe) for easy interpretation.
 
+### AQI Overview
+![delhi_aqi_animation](https://github.com/Quantamaster/Air-Quality/blob/main/delhi_aqi_animation.gif)
+
 ## Getting Started
 
 This section will guide you through setting up and running the project on your local machine.
@@ -95,5 +98,6 @@ Once installed, you can run the script to generate the AQI animation.
     * A compiled GIF animation named `delhi_aqi_animation.gif` in the project root directory.
 
     Navigate to your project root folder (`C:\Users\abc\PycharmProjects\Air_Quality _Index\`) to view the `delhi_aqi_animation.gif`.
+
 
 ## Project Structure
