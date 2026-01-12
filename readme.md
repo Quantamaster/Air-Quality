@@ -2,7 +2,7 @@
 
 ---
 
-````markdown
+
 # 🌫️ Delhi Air Quality Index (AQI) Animator
 
 ![Python](https://img.shields.io/badge/Python-3.8%2B-blue?logo=python&logoColor=white)
@@ -185,3 +185,4 @@ Air-Quality/
 
 Just tell me 👍
 ```
+
