@@ -177,12 +177,5 @@ Air-Quality/
 
 ⭐ If you find this project useful, consider **starring the repository**!
 
-```
-
 ---
-
-
-
-Just tell me 👍
-```
 
